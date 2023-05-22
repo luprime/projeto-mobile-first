@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* variables */
+  
+  :root {
+  
+    font-size: 62.5% /* 10px */;
+  
+    --bc-header: #8e9aaf;
+    --bc-headerTag: #cbc0d3;
+    --fc-header: #ffffff;
+    -fc--contact: #4a4e69;
+    --ff-title: "Staatliches", cursive;
+    --ff-pMobile-mobile: "Palanquin", sans-serif;
+    --fc-pMobile: #23053a;
+    --fc-textMobileImg: #feeafa;
+    --ff-pDesk-desk: "Roboto", sans-serif;
+    --ff-contact: "Open Sans", sans-serif;
+  }
